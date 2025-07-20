@@ -1,4 +1,4 @@
-#Classic Guess the Number FUN game !
+# Classic Guess the Number FUN game !
 
 ---
 
